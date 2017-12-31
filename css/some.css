@@ -1,0 +1,13 @@
+#goright {
+	float: right;
+}
+#goleft {
+	float: left;
+}
+body,html {
+	background-color: blue;
+}
+body {
+	background-color: white;
+ 
+}

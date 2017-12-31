@@ -1,0 +1,34 @@
+body {
+	background-color:red;
+font-family: 'Roboto', sans-serif;
+	
+}
+hr {
+
+	color:black;
+
+}
+h2, h3, strong {
+color: white;
+font-family: 'Roboto', sans-serif;
+	
+}
+nav ul{
+background-color:black;
+padding:18px;
+}
+nav ul li{
+	margin:0;
+	display:inline;
+}
+nav li a:link{
+color:black;
+padding:16px;
+background-color:white;
+text-decoration:none;
+}
+
+nav li a:hover {
+background-color:orangered;
+}
+
